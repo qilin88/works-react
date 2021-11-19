@@ -1,0 +1,10 @@
+html, body, p{
+    padding: 0;
+    margin: 0;
+}
+p{
+    color: red;
+ }
+h3{
+    color: #ccc;
+}
